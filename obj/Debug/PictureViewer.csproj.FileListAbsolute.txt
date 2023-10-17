@@ -1,0 +1,11 @@
+C:\Users\thici\OneDrive\Documentos\IFRO\codigos\App Visualizador Imagens\bin\Debug\App Visualizador Imagens.exe.config
+C:\Users\thici\OneDrive\Documentos\IFRO\codigos\App Visualizador Imagens\bin\Debug\App Visualizador Imagens.exe
+C:\Users\thici\OneDrive\Documentos\IFRO\codigos\App Visualizador Imagens\bin\Debug\App Visualizador Imagens.pdb
+C:\Users\thici\OneDrive\Documentos\IFRO\codigos\App Visualizador Imagens\obj\Debug\PictureViewer.csproj.AssemblyReference.cache
+C:\Users\thici\OneDrive\Documentos\IFRO\codigos\App Visualizador Imagens\obj\Debug\PictureViewer.csproj.SuggestedBindingRedirects.cache
+C:\Users\thici\OneDrive\Documentos\IFRO\codigos\App Visualizador Imagens\obj\Debug\App_Visualizador_Imagens.Form1.resources
+C:\Users\thici\OneDrive\Documentos\IFRO\codigos\App Visualizador Imagens\obj\Debug\App_Visualizador_Imagens.Properties.Resources.resources
+C:\Users\thici\OneDrive\Documentos\IFRO\codigos\App Visualizador Imagens\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+C:\Users\thici\OneDrive\Documentos\IFRO\codigos\App Visualizador Imagens\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\thici\OneDrive\Documentos\IFRO\codigos\App Visualizador Imagens\obj\Debug\App Visualizador Imagens.exe
+C:\Users\thici\OneDrive\Documentos\IFRO\codigos\App Visualizador Imagens\obj\Debug\App Visualizador Imagens.pdb
